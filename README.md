@@ -6,9 +6,6 @@
 | 01  | [Cartas_expandidas](https://github.com/ASarda-dev/50proyectos/tree/main/1.Cartas_expandidas)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Barra_progreso](https://github.com/ASarda-dev/50proyectos/tree/main/2.Barra_progreso)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Nav_Rotacional](https://github.com/ASarda-dev/50proyectos/tree/main/3.Nav_rotacional)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 03  | [Nav_Rotacional](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 03  | [Nav_Rotacional](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 03  | [Nav_Rotacional](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
 | 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
 | 06  | [Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
